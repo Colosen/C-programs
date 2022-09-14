@@ -1,2 +1,2 @@
 # K-R2-solutions
-The solutions to the problems in "The C Programming Language
+C programs related to "The C programming language, 2nd Edition" by Brian Kernighan and Dennis Ritchie.
