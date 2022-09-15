@@ -1,2 +1,2 @@
 # C-programs
-C programs I made involving small amounts of code.
+C programs I made as solutions to some problems.
